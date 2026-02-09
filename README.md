@@ -22,7 +22,6 @@ l3 --> l31(Python)
 l3 --> l32(SQL)
 
 l121 & l31 --> l111
-l121 & l31 --> l1211(TensorFlow)
 l121 & l32 --> l112
 l121 & l32 --> l1212(PostgreSQL)
 ```
